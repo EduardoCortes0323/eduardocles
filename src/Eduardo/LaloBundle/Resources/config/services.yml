@@ -1,0 +1,4 @@
+services:
+#    lalo.example:
+#        class: Eduardo\LaloBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

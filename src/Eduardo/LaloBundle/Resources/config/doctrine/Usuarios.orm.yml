@@ -1,0 +1,25 @@
+Eduardo\LaloBundle\Entity\Usuarios:
+    type: entity
+    table: null
+    repositoryClass: Eduardo\LaloBundle\Repository\UsuariosRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        nombre:
+            type: string
+            length: '50'
+        apPaterno:
+            type: string
+            length: '50'
+            column: ap_paterno
+        apMaterno:
+            type: string
+            length: '50'
+            column: ap_materno
+        edad:
+            type: integer
+    lifecycleCallbacks: {  }

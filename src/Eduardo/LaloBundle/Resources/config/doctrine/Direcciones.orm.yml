@@ -1,0 +1,23 @@
+Eduardo\LaloBundle\Entity\Direcciones:
+    type: entity
+    table: null
+    repositoryClass: Eduardo\LaloBundle\Repository\DireccionesRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        calle:
+            type: string
+            length: '50'
+        colonia:
+            type: string
+            length: '50'
+        delegacion:
+            type: string
+            length: '50'
+        numero:
+            type: integer
+    lifecycleCallbacks: {  }

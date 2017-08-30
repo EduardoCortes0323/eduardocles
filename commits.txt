@@ -1,0 +1,23 @@
+commit a208512b70668782e0bcce03acc945ace92b11cf
+Author: EduardoCortes0323 <postmortem_14@hotmail.com>
+Date:   Wed Aug 30 12:54:41 2017 -0500
+
+    INICIAMOS
+
+commit 59c5c7066f5b6f8901669384489fa9868d378b63
+Author: EduardoCortes0323 <postmortem_14@hotmail.com>
+Date:   Wed Aug 30 12:23:22 2017 -0500
+
+    Version 1.8
+
+commit 010e42bdcdea70375ea10d50ffb815f05836f1aa
+Author: EduardoCortes0323 <postmortem_14@hotmail.com>
+Date:   Wed Aug 30 11:43:25 2017 -0500
+
+    PRIMER COMMIT
+
+commit 8927f0b0781dc964f8e4c225ab3851813804eba8
+Author: EduardoCortes0323 <postmortem_14@hotmail.com>
+Date:   Wed Aug 30 11:17:55 2017 -0500
+
+    Primera subida del proyecto
